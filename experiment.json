@@ -1,0 +1,9 @@
+{
+	"type": "experiment",
+    "short-name": "test",
+	"iteration-number": 3,
+	"input-size":"small",
+	"configuration": {
+	    "compilers": ["gcc"]
+	}
+}
